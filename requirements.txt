@@ -1,8 +1,5 @@
 ipywidgets
 IPython
-datetime
 numpy
-pandas
+pandas<2.3.0
 matplotlib
-warnings
-seaborn
