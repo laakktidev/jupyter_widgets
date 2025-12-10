@@ -1,0 +1,8 @@
+ipywidgets
+IPython
+datetime
+numpy
+pandas
+matplotlib
+warnings
+seaborn
